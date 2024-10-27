@@ -1,0 +1,6 @@
+FOR MODERN CASUAL PRELOADER USERS: DELETE THE "valve.rc" file IN 2012mainmenu/cfg/
+
+If you're using quickplay, make sure you run quickplay once first outside of the menu to get the association with steam:// links working in your browser.
+
+Have fun!
+-pilso
